@@ -1,0 +1,1 @@
+Icros info — النسخة بدون موسيقى. ارفع index.html إلى مستودع GitHub واستبدل الملف القديم، ثم اضغط Commit changes.
